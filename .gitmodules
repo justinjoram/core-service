@@ -1,4 +1,3 @@
 [submodule "core-service-sub"]
 	path = core-service-sub
 	url = https://github.com/justinjoram/core-service-sub.git
-	branch = main
